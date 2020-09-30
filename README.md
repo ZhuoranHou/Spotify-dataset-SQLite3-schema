@@ -1,1 +1,1 @@
-# Spotify-dataset-SQLite3-schema-
+# Spotify-dataset-SQLite3-schema
